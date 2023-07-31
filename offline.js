@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1690624608,
+	"version": 1690821019,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -14,6 +14,9 @@
 		"images/camerad-sheet0.png",
 		"images/sprite6-sheet0.png",
 		"images/spawner1-sheet0.png",
+		"images/hp_monster-sheet0.png",
+		"images/hp_player-sheet0.png",
+		"images/hp_player-sheet1.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
