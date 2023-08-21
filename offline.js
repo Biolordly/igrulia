@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1692385734,
+	"version": 1692632343,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -13,7 +13,6 @@
 		"images/notaplayer-sheet1.png",
 		"images/camerad-sheet0.png",
 		"images/enemy-sheet0.png",
-		"images/enemy-sheet1.png",
 		"images/sprite6-sheet0.png",
 		"images/spawner1-sheet0.png",
 		"images/hp_monster-sheet0.png",
@@ -21,6 +20,13 @@
 		"images/hp_player-sheet1.png",
 		"images/player-sheet0.png",
 		"images/player-sheet1.png",
+		"images/bg-sheet0.png",
+		"images/sprite2-sheet0.png",
+		"media/695380__fmaudio__male-attack-grunt-3.ogg",
+		"media/566435__merrick079__punch2.ogg",
+		"media/517851__mf_gloom__telv-152-punch-woosh-_mp3cut.net_.ogg",
+		"media/348244__newagesoup__punch-boxing-01-_mp3cut.net_.ogg",
+		"media/511343__puredesigngirl__rap-music.ogg",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
