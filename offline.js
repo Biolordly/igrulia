@@ -1,14 +1,11 @@
 ﻿{
-	"version": 1692632343,
+	"version": 1693322054,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
 		"jquery-3.4.1.min.js",
 		"offlineClient.js",
 		"images/sprite-sheet0.png",
-		"images/sprite3-sheet0.png",
-		"images/sprite4-sheet0.png",
-		"images/sprite5-sheet0.png",
 		"images/notaplayer-sheet0.png",
 		"images/notaplayer-sheet1.png",
 		"images/camerad-sheet0.png",
@@ -22,6 +19,7 @@
 		"images/player-sheet1.png",
 		"images/bg-sheet0.png",
 		"images/sprite2-sheet0.png",
+		"images/sprite3-sheet0.png",
 		"media/695380__fmaudio__male-attack-grunt-3.ogg",
 		"media/566435__merrick079__punch2.ogg",
 		"media/517851__mf_gloom__telv-152-punch-woosh-_mp3cut.net_.ogg",
